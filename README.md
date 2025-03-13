@@ -9,7 +9,7 @@
 
 1. 准备Python3.8,安装requests，execjs，pprint等第三方库。
 2. 准备Node.js环境。
-3. 运行main.js程序。
+3. 运行main.py程序。
 
 #### 思路分析
 
